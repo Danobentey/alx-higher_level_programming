@@ -1,4 +1,4 @@
-#/user/bin/python3
+#!/user/bin/python3
 
 def add(a, b):
     """My addition function
@@ -6,5 +6,7 @@ def add(a, b):
     Args:
         a: first integer
         b: second integer
+    Returns:
+        The sum of 
     """
     return (a + b)
